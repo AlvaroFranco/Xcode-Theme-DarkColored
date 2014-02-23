@@ -1,7 +1,11 @@
-Xcode-Theme-DarkColored
+Xcode Theme DarkColored
 =======================
 
 A great dark theme for Xcode
+
+##Preview
+
+![alt text](http://i.imgur.com/oYJD8lW.png "DarkColored theme")
 
 ##Installation
 
